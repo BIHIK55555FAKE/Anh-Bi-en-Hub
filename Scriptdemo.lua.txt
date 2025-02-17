@@ -86,7 +86,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Xero2409/XeroHub/refs
   })
   
   AddButton(Tab1o, {
-     Name = "Rùa Hub(sea2,sea3)",
+     Name = "Rua Hub(sea2,sea3)",
     Callback = function()
 	  loadstring(game:HttpGet("https://raw.githubusercontent.com/lelel22f/test21/refs/heads/main/kk",true))()
   end
